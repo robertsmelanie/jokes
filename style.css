@@ -2,6 +2,7 @@
         font-family: 'Segoe UI', sans-serif;
         background: rosybrown;
         display: flex;
+        flex-direction: column;
         justify-content: center;
         align-items: center;
         height: 100vh;
