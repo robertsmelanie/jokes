@@ -27,11 +27,12 @@
     }
 
     #joke {
-        font-weight: 500;
+        font-weight: 1000;
+        font-weight: bolder;
         color: #444;
         margin-bottom: 1.5rem;
         min-height: 60px;
-        font-family: cursive, sans-serif;
+        font-family: fantasy, sans-serif;
         font-size: 1rem;
     }
 
